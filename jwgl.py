@@ -22,12 +22,12 @@ from urllib.parse import unquote
 # }
 
 
-file = open('r.txt', 'r')
+file = open('jwgl.txt', 'r')  //读取脚本内容
 firstline = file.readline()
-path = firstline[5:-9]
+path = firstline[5:-9]  
 secondline = file.readline()
 host = secondline[6:].replace('\r\n', '').replace('\n', '')
-url = 'http://'+host+path
+url = 'http://'+host+path 
 headers = {}
 while True:
     line = file.readline()
@@ -53,7 +53,7 @@ for parameter in parameters:
     data[array[0]] = array[1]
 
 while True:
-    time.sleep(0.5)
+    time.sleep(0.5)  //每五秒钟自动抢一次
     response = requests.post(url, data=data, headers=headers)
     if response.status_code == 200:
         print('HTTP返回码为：' + str(response.status_code))
