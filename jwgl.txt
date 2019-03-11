@@ -1,0 +1,15 @@
+POST /(hvdpuz452j1ply55jrgawvyb)/xsxjs.aspx?xkkh=24184D21F1391C58091ADBED1AA819BA99E7C4FB84E8ED0D4D3D7CD958185BEFBABBA23A563BA8E4&xh=170341303 HTTP/1.1
+Host: jwgl.cauc.edu.cn
+Content-Length: 569
+Cache-Control: max-age=0
+Origin: http://jwgl.cauc.edu.cn
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://jwgl.cauc.edu.cn/(hvdpuz452j1ply55jrgawvyb)/xsxjs.aspx?xkkh=24184D21F1391C58091ADBED1AA819BA99E7C4FB84E8ED0D4D3D7CD958185BEFBABBA23A563BA8E4&xh=170341303
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: UM_distinctid=1662a73ae607d-03f2128953b175-8383268-e1000-1662a73ae62e4
+
+__EVENTTARGET=Button1&__EVENTARGUMENT=&__VIEWSTATE=dDwxMzg2MzMxOTMyO3Q8cDxsPHp5ZG07eHk7ZHFzemo7UkxYWjt6eW1jO3h6Yjt4bTtzZmJqa2M7Y3hibW1zMTtjeGJtbXMyO2h4d3o7PjtsPDAzNDE76K6h566X5py656eR5a2m5LiO5oqA5pyv5a2m6ZmiOzIwMTc7MTvorqHnrpfmnLrnp5HlrabkuI7mioDmnK87MTcwMzQxQzvpmYjnkbY75ZCmO%2BWFjeS%2Frjvph43kv647aTwyPjs%2BPjtsPGk8MD47PjtsPHQ8O2w8aTwxPjtpPDI%2BOz47bDx0PHQ8cDxwPGw8VmlzaWJsZTs%2BO2w8bzxmPjs%2BPjs%2BOztsPGk8MD47Pj47Oz47dDx0PDs7bDxpPDE%2BOz4%2BOzs%2BOz4%2BOz4%2BOz7hbWJSGc38xBDtnBgJmYoT5phm2A%3D%3D&__VIEWSTATEGENERATOR=AC27D4D4&xkkh=%282018-2019-2%29-90010101-07332-1
